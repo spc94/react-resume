@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Diogo Monteiro",
+    "occupation":"Computer Science Student",
+    "description":"I am currently writing my Masters Degree dissertation on decentralized e-voting systems using the Ethereum Blockchain",
+    "image":"profilepic.jpg",
+    "bio":"I have travelled through 30 different countries in the last 14 months, sleeping in friends houses, train stations and hostels, meeting wonderful people and experiencing the world. I am also a geek at heart and love working on fascinating projects. I am an active member of ESN (Erasmus Student Network), trying everyday to give the best Erasmus experience to everyone that decides to study at my Alma Mater.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "me@diogomonteiro.pt",
+    "phone": "555-555-555 (on the resume)",
+    "address":{
+      "street":"",
+      "city":"Portugal",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.diogomonteiro.pt",
+    "resumedownload":"https://dl-web.dropbox.com/get/RESUME-Diogo_Monteiro.pdf?_download_id=4256914439779493486402545192117813900052120960113646627233412319136&_notify_domain=www.dropbox.com&_subject_uid=514748652&dl=1&w=AAACOn1nWrM2Qc1Ua4I0w91JvUQJfsnuxQAJD6DebcvZuw",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/diogomonteir0",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jdsasmonteiro/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/spc94",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are the skills that I use more extensively",
+    "education":[
+      {
+        "school":"Universidade da Beira Interior, Portugal",
+        "degree":"Masters in Computer Science",
+        "graduated":"expected July 2019",
+        "description":"Ranked #1 in Portugal, Top 250 CS Universities in the World (Times Higher Education). Currently researching and writing my final dissertation."
+      },
+      {
+        "school": "West University of Timisoara, Romania",
+        "degree": "Erasmus - Masters in Computer Science",
+        "graduated": "February 2018 - July 2018",
+        "description": "During this Erasmus I was enlightened by a different way of teaching. I was able to conduct some research on the Ethereum blockchain, ÐApps and Smart Contracts."
+      },
+      {
+        "school": "Silesian University of Technology, Poland",
+        "degree": "Erasmus - Bachelor in Computer Science",
+        "graduated": "February 2016 - July 2016",
+        "description": "This was truly a remarkable experience. I was fascinated by the fact that each practical laboratory had a different lecturer, specialist on the topic at hand."
+      },
+      {
+        "school":"Universidade da Beira Interior",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"July 2017",
+        "description":"The proximity between the Professors of this institution and the students creates a truly fantastic learning environment."
+      }
+    ],
+    "work":[
+      {
+        "company":"IT COMMITTEE @ ESN International",
+        "title":"React Native Developer",
+        "years":"September 2017 - August 2018",
+        "description":"Developer for the ESN (Erasmus Student Network) Mobile Application."
+      },
+      {
+        "company":"Senior Academy Covilhã",
+        "title":"Professor of IT & Computer Skills",
+        "years":"September 2016 - August 2017",
+        "description":"Volunteer for the teaching of Computer Skills to the elderly."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Android SDK",
+        "level":"80%"
+      },
+      {
+        "name": "Solidity",
+        "level": "75%"
+      },
+      {
+        "name":"C",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "Wildflare",
+        "category": "Discovers forest fires by parsing Facebook groups and conveniently displays this to the journalist. 2nd Place in Hackaton (Global Editors Network)",
+        "image": "wildflare_ubi.png",
+        "url": "https://github.com/spc94/Wildflare"
+      },
+      {
+        "title":"SMSecret",
+        "category":"A Web/Android App to filter and encrypt SMSs, as well as sending and receiving them through the browser",
+        "image":"smsecret.png",
+        "url":"https://github.com/spc94/SMSecret"
+      },
+      {
+        "title":"Boobytrap Bot",
+        "category":"A reddit bot that scavenges for certain inappropriate keywords and posts a humorous reply.",
+        "image":"boobytrap.png",
+        "url":"https://github.com/spc94/BoobyTrap"
+      },
+      {
+        "title":"Surrealist Writer",
+        "category":"A Multiplayer Online Android game where the objective is to complete the previous player's sentence, creating a truly surrealist experience.",
+        "image":"surrealist.png",
+        "url":"https://github.com/spc94/SurrealistWriter"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
