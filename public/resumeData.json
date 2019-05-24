@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "http://www.diogomonteiro.pt",
-    "resumedownload":"https://drive.google.com/uc?export=download&id=1i9gG_P4rqOJe82DFzVs3K18l_KGNCWRh",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1b6oY-Xia6wIgHdr7iZA3fwGYI9SFXrkU",
     "social":[
       {
         "name":"facebook",
@@ -51,7 +51,7 @@
         "school":"Universidade da Beira Interior, Portugal",
         "degree":"Masters in Computer Science",
         "graduated":"expected July 2019",
-        "description":"Ranked #1 in Portugal, Top 250 CS Universities in the World (Times Higher Education). Currently researching and writing my final dissertation."
+        "description":"Ranked #1 in Portugal, Top 250 CS Universities in the World (Times Higher Education). Currently researching and writing my Masters dissertation."
       },
       {
         "school": "West University of Timisoara, Romania",
@@ -74,10 +74,16 @@
     ],
     "work":[
       {
+        "company": "Blockchain Innovations",
+        "title": "Bitcoin Lightning Network & React Native Lead Developer",
+        "years": "November 2018 - May 2019",
+        "description": "Developed a React Native app (Android & iOS) to support casino/betting payments using Bitcoin Lightning Network."
+      },
+      {
         "company":"IT COMMITTEE @ ESN International",
         "title":"React Native Developer",
         "years":"September 2017 - August 2018",
-        "description":"Developer for the ESN (Erasmus Student Network) Mobile Application."
+        "description":"Developed the ESN (Erasmus Student Network) Mobile Application."
       },
       {
         "company":"Senior Academy Covilhã",
